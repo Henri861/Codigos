@@ -1,9 +1,8 @@
 num1 = 3.75444
 print(num1)
-print(round(num1))
-print(round(num1, 3))
+print(round(num1))# (round) arredonda o número decimal para um número inteiro
+print(round(num1, 3)) #acrescnte uma vírgula e coloque o número de casas decimais que você quer ver na resposta
 
-# (round) arredonda o número decimal para um número inteiro
 
 '''print(pow(2,3)) #(pow) é potenciação
 
